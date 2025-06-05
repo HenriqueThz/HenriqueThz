@@ -13,7 +13,7 @@
 ### Seja bem vindo ao meu santuário tecnológico!
 <div align="center">
   <a href="https://github.com/HenriqueThz">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Henrique THZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueTHZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiLeoni14&layout=compact&langs_count=20&theme=radical"/>
 </div>
 <div><br>
