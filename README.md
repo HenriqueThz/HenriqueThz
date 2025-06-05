@@ -31,11 +31,7 @@
   <a href = "mailto:henrique.dev1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<div> 
-  
-  ![Snake animation](https://github.com/giovannasilvap/giovannasilvap/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueThz&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitas</b></p>  
