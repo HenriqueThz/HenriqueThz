@@ -4,9 +4,7 @@
 
 <br />
 
-<a href="https://abdulrdeveloper.me" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=D4A84C&center=true&vCenter=true&multiline=false&width=800&height=55&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Rahman;Full-Stack+Developer+%7C+Open+Source+Enthusiast;Building+scalable+APIs+%26+modern+web+apps" />
-</a>
+
 
 <br /><br />
 
@@ -170,11 +168,7 @@
 
 <br />
 
-<a href="https://abdulrdeveloper.me/" target="_blank"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-d4a84c?style=for-the-badge&labelColor=0d1117&color=d4a84c" /></a>&nbsp;
-<a href="mailto:dev@abdulrdeveloper.me" target="_blank"><img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&labelColor=0d1117&color=EA4335" /></a>&nbsp;
-<a href="https://linkedin.com/in/abdulrdeveloper" target="_blank"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&labelColor=0d1117&color=0A66C2" /></a>&nbsp;
 
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0d1117,55:1a1a2e,85:16213e,100:d4a84c&height=220&section=footer&text=Code%20is%20The%20Conversation&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=60&desc=Thanks%20for%20dropping%20by!&descAlign=50&descAlignY=75&descSize=20&animation=fadeIn" width="100%" />
 
