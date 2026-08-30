@@ -45,19 +45,19 @@ Seja bem vindo ao meu santuário tecnológico!
 <h2>◈◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈◈</h2>
 <br />
 
-<a href="https://github.com/abdulrdeveloper" target="_blank">
+<a href="https://github.com/HenriqueThz" target="_blank">
   <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=808080&hide_border=true" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/abdulrdeveloper" target="_blank">
+<a href="https://github.com/HenriqueThz" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" width="98%" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/abdulrdeveloper" target="_blank">
+<a href="https://github.com/HenriqueThz" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrdeveloper&theme=nord_dark&utcOffset=5&cache_seconds=300" height="175" />
 </a>
@@ -66,10 +66,10 @@ Seja bem vindo ao meu santuário tecnológico!
 <br />
 
 <div align="center">
-<h2>◈◈ &nbsp; CONTRIBUTION GRAPH &nbsp; ◈◈</h2>
+<h2>◈◈ &nbsp; CONTRIBUIÇÃO GRAFICA &nbsp; ◈◈</h2>
 <br />
 
-<a href="https://github.com/abdulrdeveloper" target="_blank">
+<a href="https://github.com/HenriqueThz" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&hide_title=true&custom_title=Contributions&theme=github" width="98%" />
 </a>
 
