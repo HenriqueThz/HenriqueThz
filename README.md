@@ -35,14 +35,14 @@
 Seja bem vindo ao meu santuário tecnológico!
   
   <a href="mailto:henrique@attasoft.com.br.me" target="_blank">
-    <img src="https://img.shields.io/badge/Aberto_Para_Trabalhos_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for work" />
+    <img src="https://img.shields.io/badge/-Aberto_Para_Trabalhos_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for work" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-<h2>◈◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈◈</h2>
+<h2>◈◈ &nbsp; GITHUB ANALISES &nbsp; ◈◈</h2>
 <br />
 
 <a href="https://github.com/HenriqueThz" target="_blank">
