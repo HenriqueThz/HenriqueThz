@@ -46,13 +46,13 @@ Seja bem vindo ao meu santuário tecnológico!
 <br />
 
 <a href="https://github.com/HenriqueThz" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=abdulrdeveloper&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=808080&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Henrique&theme=transparent&background=0d1117&ring=d4a84c&fire=ff6b35&currStreakLabel=d4a84c&sideLabels=d4a84c&currStreakNum=ffffff&sideNums=ffffff&dates=808080&hide_border=true" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/HenriqueThz" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique&theme=nord_dark&cache_seconds=300" width="98%" />
 </a>
 
 <br /><br />
@@ -70,7 +70,7 @@ Seja bem vindo ao meu santuário tecnológico!
 <br />
 
 <a href="https://github.com/HenriqueThz" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrdeveloper&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&hide_title=true&custom_title=Contributions&theme=github" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique&bg_color=0d1117&color=d4a84c&line=d4a84c&point=ffffff&area=true&area_color=d4a84c&hide_border=false&border_color=d4a84c&hide_title=true&custom_title=Contributions&theme=github" width="98%" />
 </a>
 
 <br /><br />
@@ -89,7 +89,7 @@ Seja bem vindo ao meu santuário tecnológico!
 <br />
 
 <div align="center">
-<h2>◈◈ &nbsp; TECH STACK &nbsp; ◈◈</h2>
+<h2>◈◈ &nbsp; STACK &nbsp; ◈◈</h2>
 </div>
 
 <br />
@@ -164,7 +164,7 @@ Seja bem vindo ao meu santuário tecnológico!
 
 <div align="center">
 
-<h2>◈◈ &nbsp; LET'S CONNECT &nbsp; ◈◈</h2>
+<h2>◈◈ &nbsp; CONNECT &nbsp; ◈◈</h2>
 
 <br />
 
@@ -177,9 +177,9 @@ Seja bem vindo ao meu santuário tecnológico!
 
 <div align="center">
   <sub>
-    You can find more of my work at <a href="https://abdulrdeveloper.me">abdulrdeveloper.me</a> &nbsp;·&nbsp; 
-    Read more posts at <a href="https://blog.abdulrdeveloper.me">blog.abdulrdeveloper.me</a> &nbsp;·&nbsp; 
-    See more projects on <a href="https://github.com/abdulrdeveloper">GitHub</a>
+    You can find more of my work at <a href="https://github.com/HenriqueThz.me">abdulrdeveloper.me</a> &nbsp;·&nbsp; 
+    Read more posts at <a href="https://github.com/HenriqueThz.me">blog.abdulrdeveloper.me</a> &nbsp;·&nbsp; 
+    See more projects on <a href="https://github.com/HenriqueThz">GitHub</a>
   </sub>
 </div>
 
