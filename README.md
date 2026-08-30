@@ -29,10 +29,10 @@
 <br />
 
 <div align="center">
-  <h2>◈◈ &nbsp; ABOUT ME &nbsp; ◈◈</h2>
+  <h2>◈◈ &nbsp; SOBRE MIM &nbsp; ◈◈</h2>
   <p align="center">
-    Self-taught Full-Stack Developer from Pakistan. 1+ year shipping production apps with Next.js, TypeScript, Node.js & PostgreSQL. Currently diving deep into backend architecture and scalable systems.
-  </p>
+    Olá! Me chamo Henrique, estou caminhando para enfrentar a programação e tecnologia!
+Seja bem vindo ao meu santuário tecnológico!
   
   <a href="mailto:dev@abdulrdeveloper.me" target="_blank">
     <img src="https://img.shields.io/badge/Open_To_Work_&_Internships-0d1117?style=for-the-badge&logo=mail.ru&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" border="1" alt="Looking for work" />
