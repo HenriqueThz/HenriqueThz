@@ -153,7 +153,7 @@ Seja bem vindo ao meu santuário tecnológico!
 <br />
 
 <div align="center">
-  <a href="https://github.com/abdulrdeveloper?tab=repositories" target="_blank">
+  <a href="https://github.com/HenriqueThz" target="_blank">
     <img src="https://img.shields.io/badge/Explore_All_Projects_%E2%9F%B6-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&color=0d1117&labelColor=0d1117&borderColor=58a6ff" alt="Explore More Projects" />
   </a>
 </div>
