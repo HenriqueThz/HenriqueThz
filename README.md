@@ -51,19 +51,6 @@ Seja bem vindo ao meu santuário tecnológico!
 
 <br /><br />
 
-<a href="https://github.com/HenriqueThz" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique&theme=nord_dark&cache_seconds=300" width="98%" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/HenriqueThz" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrdeveloper&theme=nord_dark&cache_seconds=300" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrdeveloper&theme=nord_dark&utcOffset=5&cache_seconds=300" height="175" />
-</a>
-</div>
-
-<br />
 
 <div align="center">
 <h2>◈◈ &nbsp; CONTRIBUIÇÃO GRAFICA &nbsp; ◈◈</h2>
