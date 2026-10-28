@@ -25,8 +25,8 @@ Desenvolvedor focado em criar interfaces modernas, rápidas e bem estruturadas.
 
 </div>
 
-Escreva aqui um parágrafo curto (2 a 4 linhas) sobre você: quem é, o que faz, o que está estudando e o que busca profissionalmente.
-
+Olá! Me chamo Henrique, estou caminhando para enfrentar a programação e tecnologia!
+Seja bem vindo ao meu santuário tecnológico!
 ---
 
 <div align="center">
