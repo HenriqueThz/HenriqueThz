@@ -49,8 +49,8 @@ Escreva aqui um parágrafo curto (2 a 4 linhas) sobre você: quem é, o que faz,
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Tarefas](https://github.com/HenriqueThz/Tarefas) | Breve descrição do que o projeto faz | HTML, CSS, JS |
-| [Projeto Em Py](https://github.com/HenriqueThz/PROJETO-PY) | Breve descrição do que o projeto faz | HTML, CSS, JS |
+| [Tarefas](https://github.com/HenriqueThz/Tarefas) | Agendador de Tarefas | HTML, CSS, JS |
+| [Projeto Em Py](https://github.com/HenriqueThz/PROJETO-PY) | Ajustes de PDF | HTML, CSS, JS, PY |
 
 ---
 
